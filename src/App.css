@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+.description {
+  padding: 0 24px;
+  position: relative;
+}
+
+.description .progressBar {
+  background-color: #ffffff;
+  position: absolute;
+  left: 0;
+  top: -4rem;
+  border-radius: 30px;
+}
+
+div .title {
+  font-size: 1.1rem;
+  font-weight: bolder;
+}
+
+.aboutMovie h1 {
+  font-size: 2.5rem;
+  color: #000000 !important;
+}
+
+.aboutMovie span {
+  margin: 10px;
+}
